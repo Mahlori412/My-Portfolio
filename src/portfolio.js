@@ -182,27 +182,27 @@ export const projects = [
 
 export const feedbacks = [
   {
-    name: "Kagiso - 🇳🇬",
+    name: "Kagiso - 🇿🇦",
     feedback:
       "He is very patient and intelligent and always pay attention to customers requirement also i like the honesty in him through his processes of getting jobs done. Most definitely i recommend him for your next project",
   },
   {
-    name: "Nyambeni - 🇵🇰",
+    name: "Nyambeni - 🇿🇦",
     feedback:
       "He is amazing teacher for the react and node development. If i say mern stack development it would be great. More patient and skilled person. Really amazing. Highly recommended.",
   },
   {
-    name: "Vutlhari Mhangwani - 🇪🇸",
+    name: "Vutlhari Mhangwani - 🇿🇦",
     feedback:
       "He is brilliant! He makes sure that he is providing the best solution for the client and explains the job done in an easy way to understand. I felt really comfortable with him.",
   },
   {
-    name: "Ntshembo - 🇮🇳",
+    name: "Ntshembo - 🇿🇦",
     feedback:
       "Its great to work with Ntshembo. Good in communication and faster results. Thank you",
   },
   {
-    name: "Themba Ngobese - 🇫🇷",
+    name: "Themba Ngobese - 🇿🇦",
     feedback:
       "Did an incredible work in a short time, was really kind and helpful, amazing communication skills. He took time to explain me in depth what he did and how was it done. Explanations were really great and showed that he had incredible technological background, helped me understand what the code and what was happening in the back seen. Very skillful. Really enjoyed working with him. Recommand him 200%",
   },

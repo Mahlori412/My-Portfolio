@@ -7,6 +7,9 @@ export const greetings = {
     "I am a qualified software developer to build on an extensive range of technical skills within a suitably challenging role to bridge the gap between theoretical & practical knowledge and experience in the world of technology.",
   resumeLink:
     "https://drive.google.com/file/d/1RVqqItgbH9xt4U3k26tveQ-ywRZeiftS/view?usp=sharing",
+    purpose: 
+     ["Junior Software Developer responsible for the some of the web and mobile applications REST APIs, also analyzing, developing and testing. ",
+      "I am also exposed to Agile development(Scrum) which is an agile process framework for managing complex knowledge work. As full stack developer I used programming languages such as PHP, Laravel, Nodejs, Angularjs, Reactjs, Vuejs, python, postgresql, MongoDB, MySQL and many more."],
 };
 
 export const openSource = {
@@ -31,7 +34,6 @@ export const skillsSection = {
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
     emoji("⚡ Develop technical specifications and coding documentations for new projects."),
-    emoji("⚡ Work with Business Analyst and Architects to develop applications based on project requirements."),
     emoji("⚡ Worked with Business Analyst and Architects to develop applications based on project requirements."),
     emoji("⚡ Understanding of database design, version control concepts and the relational database"),
     emoji("⚡ Knowledge of client/server application development and agile development methodologies"),
@@ -103,15 +105,31 @@ export const skillsSection = {
 
 export const SkillBars = [
   {
-    Stack: "Frontend Development", //Insert stack or technology you have experience in
-    progressPercentage: "60", //Insert relative proficiency in percentage
+    Stack: "UML Diagramming", //Insert stack or technology you have experience in
+    progressPercentage: "65", //Insert relative proficiency in percentage
   },
   {
-    Stack: "Backend",
-    progressPercentage: "70",
+    Stack: "Good Communication",
+    progressPercentage: "75",
+  },
+  {
+    Stack: "Work in teams",
+    progressPercentage: "85",
+  },
+  {
+    Stack: "Software Testing",
+    progressPercentage: "60",
   },
   {
     Stack: "Programming",
+    progressPercentage: "70",
+  },
+  {
+    Stack: "Full Stack Developer",
+    progressPercentage: "65",
+  },
+  {
+    Stack: "Database Management Systems",
     progressPercentage: "70",
   },
 ];
@@ -139,9 +157,9 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Software Developer Intern",
-    date: "Janaury 2020 - August 2020",
-    desc: "I worked as a Software Developer intern",
+    role: "Junior Software Developer",
+    date: "Janaury 2020 - January 2021",
+    desc: ["ICEP is a community engagement programme initiated by the informatics department of TUT.",],
     descBullets: [
       "During the internship I learned and gain more knowledge in the world of technology",
       "We managed to build more web and mobile applications to help the community and students",
@@ -149,9 +167,9 @@ export const experience = [
     ],
   },
   {
-    role: "Freelancer at anointed stokvel club",
+    role: "Freelancer",
     date: "Janaury 2020 - present",
-    desc: "Working as back-end Developer",
+    desc: "Working as Full-Stack Developer",
     descBullets: [
       "We building web application and mobile application for companies dealing financials",
       "Programming langauges mostly used Nodejs, Postgresql, and C#",
@@ -187,9 +205,9 @@ export const feedbacks = [
       "He is very patient and intelligent and always pay attention to customers requirement also i like the honesty in him through his processes of getting jobs done. Most definitely i recommend him for your next project",
   },
   {
-    name: "Nyambeni - 🇿🇦",
+    name: "Lebo - 🇿🇦",
     feedback:
-      "He is amazing teacher for the react and node development. If i say mern stack development it would be great. More patient and skilled person. Really amazing. Highly recommended.",
+      "He is amazing developer for react and node development. If i say mern stack development it would be great. More patient and skilled person. Really amazing. Highly recommended.",
   },
   {
     name: "Vutlhari Mhangwani - 🇿🇦",

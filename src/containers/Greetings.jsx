@@ -58,6 +58,9 @@ const Greetings = () => {
                             See My Resume
                           </span>
                         </Button>
+
+
+                          <p className = "text-center my-3 section section-lg lead text-white">{greetings.purpose}</p>
                       </div>
                     </Col>
                     <Col lg="6">

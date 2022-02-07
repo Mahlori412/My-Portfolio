@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I am a qualified software developer to build on an extensive range of technical skills within a suitably challenging role to bridge the gap between theoretical & practical knowledge and experience in the world of technology.",
   resumeLink:
-    "https://drive.google.com/file/d/1RVqqItgbH9xt4U3k26tveQ-ywRZeiftS/view?usp=sharing",
+    "https://drive.google.com/file/d/1AvFjcJ8Mz9djtveZGI4YpjE2vf9HaBRo/view?usp=sharing",
     purpose: 
      ["Junior Software Developer responsible for the some of the web and mobile applications REST APIs, also analyzing, developing and testing. ",
       "I am also exposed to Agile development(Scrum) which is an agile process framework for managing complex knowledge work. As full stack developer I used programming languages such as PHP, Laravel, Nodejs, Angularjs, Reactjs, Vuejs, python, postgresql, MongoDB, MySQL and many more."],
@@ -163,7 +163,15 @@ export const experience = [
     descBullets: [
       "During the internship I learned and gain more knowledge in the world of technology",
       "We managed to build more web and mobile applications to help the community and students",
-      "ICEP website: https://www.icep.co.za/",
+      
+    ],
+  },
+  {
+    role: "Junior Software Developer",
+    date: "July 2021 - present",
+    desc: ["Epic Inventors.",],
+    descBullets: [
+      "Responsible for building Web APIs using various programming languages Node.JS/.Net (C#) and Python and API design standards in order to implement them in to Frontend products",
     ],
   },
   {
@@ -173,7 +181,6 @@ export const experience = [
     descBullets: [
       "We building web application and mobile application for companies dealing financials",
       "Programming langauges mostly used Nodejs, Postgresql, and C#",
-      "Anointed stokvel club website: https://anointedstokvelclub.com/",
     ],
   },
 ];
